@@ -1,6 +1,6 @@
 <?php
 
 header("Content-Type:text/html;charset=utf-8");
-echo "任思可，你好";
+echo "zhang meng lei is my best lover";
 
 ?>
